@@ -7,11 +7,11 @@
 
 ## 📌 Intro :
 
-A Finance Analyst working for 'The Big Bank' You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
+A Finance Analyst working for 'The Big Bank' we have been tasked with finding out about our customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into our customers.
 
 ## 🎯 Project Overview :
 
-This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
+This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.This supports business intelligence, risk management, and customer relationship management for an efficient banking system.
 
 ---
 
