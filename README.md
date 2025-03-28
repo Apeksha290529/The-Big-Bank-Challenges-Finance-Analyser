@@ -4,14 +4,12 @@
 
 ![sql4](pexels-bala-5406959.jpg)
 
-Link to the [Challenge](https://steeldata.org.uk/SQL4.html)
-# Challenge  - Finance Analysis
+
 ## Intro
-You are a Finance Analyst working for 'The Big Bank'
+a Finance Analyst working for 'The Big Bank'
 You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
 
-
-Overview
+## Overview
 
 This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
 
@@ -19,14 +17,10 @@ This project implements a banking database using SQL. It includes tables for Cus
 📌 Overview
 This schema represents a banking system, which includes:
 
-Customers who hold accounts.
-
-Branches where accounts are managed.
-
-Accounts of different types (Checking, Savings, Credit Card).
-
-Transactions to track deposits, withdrawals, and payments.
-
+1.Customers:Customers who hold accounts.
+2.Branches:Branches where accounts are managed.
+3.Accounts:Accounts of different types (Checking, Savings, Credit Card).
+4.Transactions: Transactions to track deposits, withdrawals, and payments.
 
 
 🔍 Banking System Insights & Analysis
