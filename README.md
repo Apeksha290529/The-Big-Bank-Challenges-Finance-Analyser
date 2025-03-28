@@ -12,6 +12,7 @@ A Finance Analyst working for 'The Big Bank' You have been tasked with finding o
 ## 🎯 Project Overview :
 
 This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
+
 ---
 
 
