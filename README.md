@@ -14,9 +14,9 @@ A Finance Analyst working for 'The Big Bank' You have been tasked with finding o
 This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
 ---
 
-## **🏦 Bank Database Schema :** 
-  **🏦 Bank Database Schema :** 
 
+## **🏦 Bank Database Schema :** 
+  
 This schema represents a banking system, which includes:
 
 🛒Customers:Customers who hold accounts.
@@ -29,7 +29,7 @@ This schema represents a banking system, which includes:
 
 ---
 
-  **🔍 Banking System Insights & Analysis :** 
+  ## **🔍 Banking System Insights & Analysis :** 
 
 
 🔄Identify customer demographics (location, accounts held).
@@ -42,7 +42,7 @@ This schema represents a banking system, which includes:
 
 ---
 
-  **💰 Revenue Enhancement :** 
+  ## **💰 Revenue Enhancement :** 
 
 💸Identify profitable account types (Savings accounts with high deposits).
 
@@ -54,7 +54,7 @@ This schema represents a banking system, which includes:
 
 ---
 
-  **⚙️ Operational Efficiency :** 
+ ## **⚙️ Operational Efficiency :** 
 
 📦Optimize branch locations based on transaction volume.
 
@@ -67,7 +67,7 @@ This schema represents a banking system, which includes:
 ---
 
 
-  **🛠️ Tools & Technologies Used** :
+ ## **🛠️ Tools & Technologies Used** :
 - SQL – Data extraction, transformation, and querying
   
 
@@ -76,7 +76,7 @@ This schema represents a banking system, which includes:
 ---
 
 
-  📊 **Insights & Expected Outcomes** :
+ ## 📊 **Insights & Expected Outcomes** :
 
 ✅ Customer segmentation for personalized banking services.
 
