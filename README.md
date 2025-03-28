@@ -131,6 +131,3 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 ### 10. Which branch has the highest number of transactions in the Transactions table?
 ![](output/10que.png)
-
-
-![SQL4tables](https://user-images.githubusercontent.com/122549893/236733689-6754ba0e-688f-4ccc-8ee8-0c6da5ffafe5.png)
