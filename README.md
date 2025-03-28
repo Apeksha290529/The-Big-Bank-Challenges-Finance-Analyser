@@ -98,7 +98,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 
 ### 1. What are the names of all the customers who live in New York?
-
+  ![](output/1.quesql.png)
 
 ### 2. What is the total number of accounts in the Accounts table?
 
