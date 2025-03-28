@@ -5,17 +5,17 @@
 ![sql4](pexels-bala-5406959.jpg)
 
 
-## Intro
+**## Intro**
 
 A Finance Analyst working for 'The Big Bank' You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
 
-📌 Overview📌
-
+**📌 Overview📌
+**
 This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
 ---
 
 
-🏦 Bank Database Schema :
+**🏦 Bank Database Schema :**
 
 This schema represents a banking system, which includes:
 
@@ -29,7 +29,7 @@ This schema represents a banking system, which includes:
 
 ---
 
-🔍 Banking System Insights & Analysis :
+**🔍 Banking System Insights & Analysis :**
 
 
 1.Identify customer demographics (location, accounts held).
@@ -42,7 +42,7 @@ This schema represents a banking system, which includes:
 
 ---
 
-💰 Revenue Enhancement :
+****💰 Revenue Enhancement :**
 
 1.Identify profitable account types (Savings accounts with high deposits).
 
@@ -54,7 +54,7 @@ This schema represents a banking system, which includes:
 
 ---
 
-⚙️ Operational Efficiency :
+**⚙️ Operational Efficiency :**
 
 Optimize branch locations based on transaction volume.
 
@@ -67,14 +67,15 @@ Automate account closures for long-inactive users.
 ---
 
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 >SQL – Data extraction, transformation, and querying
+
 >BANK Database – Source of banks data
 
 ---
 
 
-📊 Insights & Expected Outcomes
+📊 **Insights & Expected Outcomes**
 
 ✅ Customer segmentation for personalized banking services.
 
@@ -83,6 +84,7 @@ Automate account closures for long-inactive users.
 ✅ Optimized operations for better banking efficiency.
 
 ✅ Enhanced fraud detection using transaction insights.
+
 ---
 
 
