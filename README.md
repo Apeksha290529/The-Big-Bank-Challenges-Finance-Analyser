@@ -90,7 +90,7 @@ This schema represents a banking system, which includes:
 ---
 
 
-# 'The Big Bank' Data Queries
+## 'The Big Bank' Data Queries
 
 This repository contains SQL queries and corresponding visualizations for analyzing the bank dataset.
 
