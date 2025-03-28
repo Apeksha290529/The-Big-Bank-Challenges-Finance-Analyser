@@ -1,6 +1,6 @@
 
 
-# Steel-Data-Challenges-Finance-Analysis
+# The Big Bank-Challenges-Finance-Analysis
 
 ![sql4](https://user-images.githubusercontent.com/122549893/236733676-923ff835-e29e-4098-a7ac-3e4587ff1b46.jpg)
 
