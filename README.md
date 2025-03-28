@@ -58,11 +58,14 @@ Improve fraud detection by tracking unusual transactions.
 
 Automate account closures for long-inactive users.
 
+---
+
 
 🛠️ Tools & Technologies Used
 >SQL – Data extraction, transformation, and querying
 >BANK Database – Source of banks data
 
+---
 
 
 📊 Insights & Expected Outcomes
@@ -70,6 +73,8 @@ Automate account closures for long-inactive users.
 ✅ Improved revenue by analyzing transaction patterns.
 ✅ Optimized operations for better banking efficiency.
 ✅ Enhanced fraud detection using transaction insights.
+---
+
 
 This schema supports business intelligence, risk management, and customer relationship management for an efficient banking system. 🚀
 
