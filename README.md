@@ -6,15 +6,16 @@
 
 
 ## Intro
-a Finance Analyst working for 'The Big Bank'
-You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
+
+A Finance Analyst working for 'The Big Bank' You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
 
 ## Overview
 
 This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
 
-🏦 Bank Database Schema
-📌 Overview
+
+🏦 Bank Database Schema:
+
 This schema represents a banking system, which includes:
 
 1.Customers:Customers who hold accounts.
