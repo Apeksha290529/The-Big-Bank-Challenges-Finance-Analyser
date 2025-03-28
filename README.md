@@ -18,8 +18,11 @@ This project implements a banking database using SQL. It includes tables for Cus
 This schema represents a banking system, which includes:
 
 1.Customers:Customers who hold accounts.
+
 2.Branches:Branches where accounts are managed.
+
 3.Accounts:Accounts of different types (Checking, Savings, Credit Card).
+
 4.Transactions: Transactions to track deposits, withdrawals, and payments.
 
 
