@@ -115,8 +115,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 
 ### 6. Which customer has the highest current balance in their accounts?
-
-![](output/6ques.png)
+ ![](output/6ques.png)
 
 ### 7. Which customer has made the most transactions in the Transactions table?
 
@@ -127,12 +126,10 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ![](output/8que.png)
 
 ### 9. Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
-
 ![](output/9photo.png)
 
 
 ### 10. Which branch has the highest number of transactions in the Transactions table?
-
 ![](output/10que.png)
 
 
