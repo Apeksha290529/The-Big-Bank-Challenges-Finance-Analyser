@@ -39,6 +39,7 @@ This schema represents a banking system, which includes:
 3.Categorize customers by account type (Checking, Savings, Credit Card).
 
 4.Enhance targeted marketing campaigns for loans, offers, and credit cards.
+
 ---
 
 💰 Revenue Enhancement :
@@ -50,6 +51,7 @@ This schema represents a banking system, which includes:
 3.Find top-earning branches based on deposits and transactions.
 
 4.Reduce non-performing accounts by targeting inactive customers.
+
 ---
 
 ⚙️ Operational Efficiency :
@@ -73,6 +75,7 @@ Automate account closures for long-inactive users.
 
 
 📊 Insights & Expected Outcomes
+
 ✅ Customer segmentation for personalized banking services.
 
 ✅ Improved revenue by analyzing transaction patterns.
