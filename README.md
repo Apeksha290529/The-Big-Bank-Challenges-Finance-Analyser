@@ -98,37 +98,37 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 
 ### 1. What are the names of all the customers who live in New York?
-![Cheapest Rental](output/1.quesql.png)
+![](output/1.quesql.png)
 
-  
 
 ### 2. What is the total number of accounts in the Accounts table?
-
+![](output/2quesql.png)
 
 ### 3. What is the total balance of all checking accounts?
-
+![](output/3question.png)
 
 ### 4. What is the total balance of all accounts associated with customers who live in Los Angeles?
-
+![](output/4ques.png)
 
 ### 5. Which branch has the highest average account balance?
-
+![](output/5ques.png)
 
 
 ### 6. Which customer has the highest current balance in their accounts?
-
+![](output/6ques.png)
 
 ### 7. Which customer has made the most transactions in the Transactions table?
-
+![](output/7question.png)
 
 ### 8. Which branch has the highest total balance across all of its accounts?
-
+![](output/8que.png)
 
 ### 9. Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
+![](output/9photo.png)
 
 
 ### 10. Which branch has the highest number of transactions in the Transactions table?
-
+![](output/10que.png)
 
 
 ![SQL4tables](https://user-images.githubusercontent.com/122549893/236733689-6754ba0e-688f-4ccc-8ee8-0c6da5ffafe5.png)
