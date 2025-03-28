@@ -2,7 +2,7 @@
 
 # The Big Bank-Challenges-Finance-Analysis
 
-![sql4](https://user-images.githubusercontent.com/122549893/236733676-923ff835-e29e-4098-a7ac-3e4587ff1b46.jpg)
+![sql4](pexels-bala-5406959.jpg)
 
 Link to the [Challenge](https://steeldata.org.uk/SQL4.html)
 # Challenge  - Finance Analysis
