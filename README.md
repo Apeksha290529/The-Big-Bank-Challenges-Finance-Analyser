@@ -59,6 +59,12 @@ Improve fraud detection by tracking unusual transactions.
 Automate account closures for long-inactive users.
 
 
+🛠️ Tools & Technologies Used
+>SQL – Data extraction, transformation, and querying
+>BANK Database – Source of banks data
+
+
+
 📊 Insights & Expected Outcomes
 ✅ Customer segmentation for personalized banking services.
 ✅ Improved revenue by analyzing transaction patterns.
