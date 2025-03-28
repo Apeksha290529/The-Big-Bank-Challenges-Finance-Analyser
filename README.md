@@ -9,12 +9,12 @@
 
 A Finance Analyst working for 'The Big Bank' You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.
 
-## Overview
+📌 Overview📌
 
 This project implements a banking database using SQL. It includes tables for Customers, Branches, Accounts, and Transactions, allowing for efficient management of banking operations such as account management, transactions, and branch operations.
 
 
-🏦 Bank Database Schema:
+🏦 Bank Database Schema :
 
 This schema represents a banking system, which includes:
 
@@ -27,26 +27,29 @@ This schema represents a banking system, which includes:
 4.Transactions: Transactions to track deposits, withdrawals, and payments.
 
 
-🔍 Banking System Insights & Analysis
-🛒 Customer Insights
-Identify customer demographics (location, accounts held).
+🔍 Banking System Insights & Analysis :
 
-Track transaction history to understand spending habits.
 
-Categorize customers by account type (Checking, Savings, Credit Card).
+1.Identify customer demographics (location, accounts held).
 
-Enhance targeted marketing campaigns for loans, offers, and credit cards.
+2.Track transaction history to understand spending habits.
 
-💰 Revenue Enhancement
-Identify profitable account types (Savings accounts with high deposits).
+3.Categorize customers by account type (Checking, Savings, Credit Card).
 
-Analyze transaction trends for optimizing fees and interest rates.
+4.Enhance targeted marketing campaigns for loans, offers, and credit cards.
 
-Find top-earning branches based on deposits and transactions.
+💰 Revenue Enhancement :
 
-Reduce non-performing accounts by targeting inactive customers.
+1.Identify profitable account types (Savings accounts with high deposits).
 
-⚙️ Operational Efficiency
+2.Analyze transaction trends for optimizing fees and interest rates.
+
+3.Find top-earning branches based on deposits and transactions.
+
+4.Reduce non-performing accounts by targeting inactive customers.
+
+⚙️ Operational Efficiency :
+
 Optimize branch locations based on transaction volume.
 
 Identify low-balance accounts for engagement campaigns.
